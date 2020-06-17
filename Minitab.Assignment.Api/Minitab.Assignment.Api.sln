@@ -13,15 +13,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.CrmStub"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.DomainModels", "..\Minitab.Assignment.DomainModels\Minitab.Assignment.DomainModels.csproj", "{FEC8796A-F954-486C-8973-0937E7695BA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.Services.Tests", "..\Minitab.Assignment.Services.Tests\Minitab.Assignment.Services.Tests.csproj", "{862C9120-9441-4DA9-8DFE-BBD98DE26DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Services.Tests", "..\Minitab.Assignment.Services.Tests\Minitab.Assignment.Services.Tests.csproj", "{862C9120-9441-4DA9-8DFE-BBD98DE26DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.Api.Tests", "..\Minitab.Assignment.Api.Tests\Minitab.Assignment.Api.Tests.csproj", "{A50194E3-945A-4E8C-819D-99C8E10DF779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Api.Tests", "..\Minitab.Assignment.Api.Tests\Minitab.Assignment.Api.Tests.csproj", "{A50194E3-945A-4E8C-819D-99C8E10DF779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.Common", "..\Minitab.Assignment.Common\Minitab.Assignment.Common.csproj", "{A86010E4-5244-4D9C-832F-23D6D7ACADF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Common", "..\Minitab.Assignment.Common\Minitab.Assignment.Common.csproj", "{A86010E4-5244-4D9C-832F-23D6D7ACADF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.DataContext", "..\Minitab.Assignment.DataContext\Minitab.Assignment.DataContext.csproj", "{FB54BD01-EDD6-458E-AEFD-394658817839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.DataContext", "..\Minitab.Assignment.DataContext\Minitab.Assignment.DataContext.csproj", "{FB54BD01-EDD6-458E-AEFD-394658817839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.Entities", "..\Minitab.Assignment.Entities\Minitab.Assignment.Entities.csproj", "{98E6B950-C57F-41EB-8DA0-C5E9789FDF93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Entities", "..\Minitab.Assignment.Entities\Minitab.Assignment.Entities.csproj", "{98E6B950-C57F-41EB-8DA0-C5E9789FDF93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D32526E-D312-4E9A-BC7D-7BAFB18A78C4}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
