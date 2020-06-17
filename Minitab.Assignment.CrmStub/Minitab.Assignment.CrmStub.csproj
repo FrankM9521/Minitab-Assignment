@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Minitab.Assignment.DataContext\Minitab.Assignment.DataContext.csproj" />
+    <ProjectReference Include="..\Minitab.Assignment.DomainModels\Minitab.Assignment.DomainModels.csproj" />
+    <ProjectReference Include="..\Minitab.Assignment.Entities\Minitab.Assignment.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
